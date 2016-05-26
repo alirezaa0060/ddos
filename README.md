@@ -1,2 +1,10 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
+# <b><i>DDOS</i></b>
+------------------------
+
+1_ <i>git clone https://github.com/MrJacki/DDOS</i>
+2_ <i>cd DDOS</i>
+3_ <i>python3 hammer.py [IP] [Port] [Times]</i>
+4_ <i>Attack is started!</i>
+
+------------------------
+<b>Developed By MrJacki</b>
