@@ -1,7 +1,7 @@
 # <b><i>DDOS</i></b>
 ------------------------
 
-1_ <i>git clone https://github.com/MrJacki/DDOS</i>
+1_ <i>git clone https://github.com/alirezaa0060/DDOS</i>
 
 2_ <i>cd DDOS</i>
 
